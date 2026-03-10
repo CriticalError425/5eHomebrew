@@ -2,7 +2,7 @@
 	"item": [
 		{
 			"name": "Amulet of Arcane Absorption",
-			"source": "Homebrew",
+			"source": "Kais Homebrew",
 			"type": "A",
 			"rarity": "Legendary",
 			"reqAttune": true,
@@ -21,4 +21,5 @@
 			]
 		}
 	]
+
 }
