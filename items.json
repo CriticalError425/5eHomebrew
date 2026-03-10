@@ -1,8 +1,26 @@
 {
+	"_meta": {
+		"sources": [
+			{
+				"json": "CriticalError5e",
+				"abbreviation": "CE425",
+				"full": "CriticalError425 Homebrew",
+				"url": "https://github.com/CriticalError425/5eHomebrew",
+				"authors": [
+					"CriticalError425"
+				],
+				"convertedBy": [
+					"CriticalError425"
+				],
+				"version": "1.0.0"
+			}
+		],
+		"dateAdded": 1710075600
+	},
 	"item": [
 		{
 			"name": "Amulet of Arcane Absorption",
-			"source": "Kais Homebrew",
+			"source": "Homebrew",
 			"type": "A",
 			"rarity": "Legendary",
 			"reqAttune": true,
@@ -21,5 +39,4 @@
 			]
 		}
 	]
-
 }
