@@ -1,0 +1,52 @@
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "CriticalError5e",
+        "abbreviation": "CE425",
+        "full": "CriticalError425 Homebrew",
+        "url": "https://github.com/CriticalError425/5eHomebrew",
+        "authors": ["CriticalError425"],
+        "convertedBy": ["CriticalError425"],
+        "version": "1.0.0"
+      }
+    ],
+    "dateAdded": 1710075600
+  },
+  "item": [
+    {
+      "name": "Amulet of Arcane Absorption",
+      "source": "CriticalError5e",
+      "type": "A",
+      "wondrous": true,
+      "tier": "major",
+      "rarity": "legendary",
+      "reqAttune": true,
+      "entries": [
+        "This ancient relic protects its wearer from harm, absorbing harmful magic directed at them.",
+        "{@b Arcane Redirection.} Whenever you would take damage from a magical effect or spell, you can use your reaction to take no damage instead, as the magic is absorbed by the amulet. This feature can be used three times and recharges after finishing a short or long rest.",
+        {
+          "type": "entries",
+          "name": "Hidden Property",
+          "entries": [
+            "{@i This property is not revealed when the item is identified and must be discovered through experimentation or research. A character can discover this property with a successful DC 25 Arcana check.}",
+            "{@b Arcane Volatility.} Every point of damage absorbed by the amulet is stored as raw energy. If the wearer removes the amulet, or if it is forcefully removed, the stored energy lashes out in a powerful explosion. Every creature within a sphere centered on the amulet must make a DC 20 Dexterity saving throw. The radius of the sphere is equal to the damage stored (for example, 50 damage equals a 50-foot radius). On a failed save, a creature takes force damage equal to the total damage stored in the amulet, or half as much on a successful save. After this explosion, the stored damage returns to 0."
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amulet of Arcane Absorption",
+      "source": "CriticalError5e",
+      "type": "A",
+      "wondrous": true,
+      "tier": "major",
+      "rarity": "legendary",
+      "reqAttune": true,
+      "entries": [
+        "This ancient relic protects its wearer from harm, absorbing harmful magic directed at them.",
+        "{@b Arcane Redirection.} Whenever you would take damage from a magical effect or spell, you can use your reaction to take no damage instead, as the magic is absorbed by the amulet. This feature can be used three times and recharges after finishing a short or long rest."
+      ]
+    }
+  ]
+}
